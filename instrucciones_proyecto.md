@@ -41,6 +41,12 @@ La propuesta debe ser aprobada por los docentes antes de iniciar el desarrollo d
 3. Carpeta del proyecto con las funciones implementadas en R y Python
 4. Documento resumen del proyecto (PDF)
 5. Archivos de datos utilizados o instrucciones claras para su descarga
+6. **Repositorio Github apropiadamente configurado** con:
+   - README.md claro y completo
+   - Archivo requirements.txt (Python)
+   - Archivo .gitignore apropiado
+
+**Importante:** No se recibirán modificaciones después de la fecha de cierre estipulada en el Github Classroom. La hora está dada en UTC.
 
 ---
 
