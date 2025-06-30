@@ -24,9 +24,9 @@ La propuesta debe ser aprobada por los docentes antes de iniciar el desarrollo d
 
 ### **2. Requisitos del proyecto final:**
 
-* El proyecto debe contemplar el uso de programación en **R y/o Python**.
+* El proyecto debe contemplar el uso de programación en **R y Python**.
 * Debe incluir **procesos de carga, transformación, análisis y visualización** de datos.
-* Se debe desarrollar un conjunto de **funciones propias** (mínimo 10 funciones) que evidencien el dominio de estructuras de control, manipulación de datos y buenas prácticas de programación.
+* Se debe desarrollar un conjunto de **funciones propias** (mínimo 10 funciones en R y 10 funciones en Python) que evidencien el dominio de estructuras de control, manipulación de datos y buenas prácticas de programación.
 * Se deben incluir mecanismos para **gestionar datos faltantes y valores atípicos**.
 * El conjunto de datos puede ser propio, recopilado o de dominio público, pero debe tener un volumen adecuado y relevancia para los objetivos planteados.
 * Se espera la entrega de dos cuadernos: uno en **R Markdown** y otro en **Jupyter Notebook (Python)**, con ejemplos reproducibles del uso de las funciones implementadas.
